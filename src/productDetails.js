@@ -38,5 +38,5 @@ const productDetails = (firstProduct, secondProduct) => [
     },
   },
 ];
-
+console.log(productDetails('lápis', 'borracha')[0]);
 module.exports = productDetails;

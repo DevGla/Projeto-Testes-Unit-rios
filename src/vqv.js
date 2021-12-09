@@ -25,4 +25,6 @@ trabalho na Trybe e mando muito em programação!
   } 
   return undefined;
 };
+
+console.log(vqv('lucas', 27));
 module.exports = vqv;
